@@ -31,4 +31,4 @@ Pd_Challenge
  * Modeling.ipynb
   
  
- Note: Output of Step2-4 is a feature vector, which will be further used in Step4 for modeling
+ Note: Output of Step2-4 is a feature vector, which will further be used in Step4 for modeling
