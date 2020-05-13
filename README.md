@@ -1,7 +1,6 @@
 # Pd_Challenge
-Pd_Challenge
 
-# Step1: Unzipp these folders :- #
+## Step1: Unzipp these folders by running Data Extraction :- ##
  * real-pd.training_data.tar.bz2
  * real-pd.testing_data.tar.bz2
  * real-pd.REAL-PD_Test_Data_IDs.csv
