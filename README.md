@@ -53,8 +53,8 @@
      * realpd_comp_testing_abhiroop_lastfeatures_smartwatch.csv
      * realpd_clinical_preprocessed.csv
   
-## Step4: Run Modeling Codes:- ##
+## Step5: Run Modeling Codes:- ##
  * This python code(Modeling.ipynb) will use all exported csv files for prediction.
   
  
- Note: Output of Step2-4 is a feature vector, which will further be used in Step4 for modeling
+ Note: Output of Step2-4 is a feature vector, which will further be used in Step5 for modeling
