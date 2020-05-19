@@ -36,6 +36,7 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 
 ### III-1. Directories:
 
+```bash
 ├── activity_labels.txt <br />
 ├── features_info.txt <br />
 ├── features.txt <br />
@@ -116,7 +117,8 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 └── realpd_clinical_preprocessed.csv <br />
 
 **Note:Modeling.ipynb will use these exported csv files to create machine learning models** <br />
-		
+'''
+
 ### III-2. Notebooks:
 
      - `Data Extraction.ipynb`: This notebook extract signals from these zip folders 
