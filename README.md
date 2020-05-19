@@ -6,7 +6,7 @@ ____________________________________________________
 Parkinson’s disease (PD) is a neurodegenerative disease that primarily affects the motor system but also exhibits other symptoms. Typical motor symptoms of the disease include tremors, slowness (bradykinesia), posture and walking perturbations, muscle rigidity and speech perturbations. Additionally, patients may experience side effects from their medication in the form of dyskinesia (involuntary movement). In the clinic, symptoms and side-effects are evaluated using physician observation and patient reports, however this infrequent assessment may not reflect a patient's typical state on an average day. Mobile sensor (accelerometers) may be useful for tracking a patient's symptom severity and response to medication, and have the potential to provide more detailed information that patients and physicians can use to make care decisions.
 
 #### Project Origins:
-[BEAT-PD DREAM Challenge]    (https://www.synapse.org/#!Synapse:syn20825169/wiki/)
+[BEAT-PD DREAM Challenge](https://www.synapse.org/#!Synapse:syn20825169/wiki/)
 
 #### Project Overview:
 We are provided with raw sensor (accelerometer and gyroscope) time series data recorded during the course of daily living, and will be asked to predict individuals' medication state and symptom severity.
@@ -37,37 +37,37 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ### III-1. Directories:
 
 ```bash
-├── activity_labels.txt <br />
-├── features_info.txt <br />
-├── features.txt <br />
-├── README.txt <br />
-├── Data Extraction.ipynb <br />
-├── Part1-till hurst-CISPD.ipynb <br />
-├── Part1-till hurst-RealPD.ipynb <br />
-├── Part2-wavelet features-CISPD.ipynb <br />
-├── Part2-wavelet features-REALPD.ipynb <br />
-├── Part3-last set of features CISPD.ipynb <br />
-├── Part3-last set of features RealPD.ipynb <br />
-├── Modeling.ipynb <br />
+├── activity_labels.txt 
+├── features_info.txt 
+├── features.txt 
+├── README.txt 
+├── Data Extraction.ipynb 
+├── Part1-till hurst-CISPD.ipynb 
+├── Part1-till hurst-RealPD.ipynb 
+├── Part2-wavelet features-CISPD.ipynb 
+├── Part2-wavelet features-REALPD.ipynb 
+├── Part3-last set of features CISPD.ipynb 
+├── Part3-last set of features RealPD.ipynb 
+├── Modeling.ipynb 
 ```
 
 **Before running any code please add these zipped data and csv files into the parent directory** <br />
 ```bash
-├── cis-pd.ancillary_data.tar.bz2 <br />
-├── cis-pd.clinical_data.tar.bz2 <br />
-├── cis-pd.data_labels.tar.bz2 <br />
-├── cis-pd.testing_data.tar.bz2 <br />
-├── cis-pd.training_data.tar.bz2 <br />
-├── real-pd.ancillary_data.tar.bz2 <br />
-├── real-pd.clinical_data.tar.bz2 <br />
-├── real-pd.data_labels.tar.bz2 <br />
-├── real-pd.testing_data.tar.bz2 <br />
-├── real-pd.training_data.tar.bz2 <br />
-├── cis-pd.CIS-PD_Test_Data_IDs.csv <br />
-├── real-pd.REAL-PD_Test_Data_IDs.csv <br />
-├── BEAT-PD_SC1_OnOff_Submission_Template.csv <br />
-├── BEAT-PD_SC2_Dyskinesia_Submission_Template.csv <br />
-└── BEAT-PD_SC3_Tremor_Submission_Template.csv <br />
+├── cis-pd.ancillary_data.tar.bz2 
+├── cis-pd.clinical_data.tar.bz2 
+├── cis-pd.data_labels.tar.bz2 
+├── cis-pd.testing_data.tar.bz2 
+├── cis-pd.training_data.tar.bz2 
+├── real-pd.ancillary_data.tar.bz2 
+├── real-pd.clinical_data.tar.bz2 
+├── real-pd.data_labels.tar.bz2 
+├── real-pd.testing_data.tar.bz2 
+├── real-pd.training_data.tar.bz2 
+├── cis-pd.CIS-PD_Test_Data_IDs.csv 
+├── real-pd.REAL-PD_Test_Data_IDs.csv 
+├── BEAT-PD_SC1_OnOff_Submission_Template.csv 
+├── BEAT-PD_SC2_Dyskinesia_Submission_Template.csv 
+└── BEAT-PD_SC3_Tremor_Submission_Template.csv 
 ```
 
 **After running Data Extraction.ipynb these Dicretories will be created** <br />
