@@ -36,13 +36,13 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 
 ### III-1. Directories:
 
-├── activity_labels.txt. 
-├── features_info.txt. 
-├── features.txt. 
-├── README.txt. 
-├── Data Extraction.ipynb. 
-├── Part1-till hurst-CISPD.ipynb. 
-├── Part1-till hurst-RealPD.ipynb. 
+├── activity_labels.txt <br />
+├── features_info.txt <br />
+├── features.txt <br />
+├── README.txt <br />
+├── Data Extraction.ipynb <br />
+├── Part1-till hurst-CISPD.ipynb <br />
+├── Part1-till hurst-RealPD.ipynb <br />
 ├── Part2-wavelet features-CISPD.ipynb. 
 ├── Part2-wavelet features-REALPD.ipynb. 
 ├── Part3-last set of features CISPD.ipynb. 
