@@ -49,6 +49,25 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── Part3-last set of features RealPD.ipynb <br />
 ├── Modeling.ipynb <br />
 
+
+**Before running any code please add these zipped data and csv files into the parent directory** <br />
+├── cis-pd.ancillary_data.tar.bz2 <br />
+├── cis-pd.clinical_data.tar.bz2 <br />
+├── cis-pd.data_labels.tar.bz2 <br />
+├── cis-pd.testing_data.tar.bz2 <br />
+├── cis-pd.training_data.tar.bz2 <br />
+├── real-pd.ancillary_data.tar.bz2 <br />
+├── real-pd.clinical_data.tar.bz2 <br />
+├── real-pd.data_labels.tar.bz2 <br />
+├── real-pd.testing_data.tar.bz2 <br />
+├── real-pd.training_data.tar.bz2 <br />
+├── cis-pd.CIS-PD_Test_Data_IDs.csv <br />
+├── real-pd.REAL-PD_Test_Data_IDs.csv <br />
+├── BEAT-PD_SC1_OnOff_Submission_Template.csv <br />
+├── BEAT-PD_SC2_Dyskinesia_Submission_Template.csv <br />
+└── BEAT-PD_SC3_Tremor_Submission_Template.csv <br />
+
+
 **Exported training datas from Part1,Part2,Part3 of CISPD & REALPD ipynb** <br />
 ├── analysis2_cispd_comp_training_abhiroop_tillhurst.csv <br />
 ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartphone.csv <br />
@@ -75,23 +94,12 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── cispd_clinical_preprocessed.csv <br />
 └── realpd_clinical_preprocessed.csv <br />
 
-
+**Note:Modeling.ipynb will use these exported csv files to create machine learning models** <br />
 		
 ### III-2. Notebooks:
 
      - `Data Extraction.ipynb`: This is the notebook file extract signals from these zip folders 
-                - cis-pd.ancillary_data.tar.bz2
-                - cis-pd.CIS-PD_Test_Data_IDs.csv
-                - cis-pd.clinical_data.tar.bz2
-                - cis-pd.data_labels.tar.bz2
-                - cis-pd.testing_data.tar.bz2
-                - cis-pd.training_data.tar.bz2
-                - real-pd.ancillary_data.tar.bz2
-                - real-pd.clinical_data.tar.bz2
-                - real-pd.data_labels.tar.bz2
-                - real-pd.testing_data.tar.bz2
-                - real-pd.training_data.tar.bz2
-
+    
 
 	- `Part1-till hurst-CISPD.ipynb`: This notebook file contains the signal processing and time and frequency domain features with pipeline for Cispd patient.
     - `Part1-till hurst-RealPD.ipynb`: This notebook file contains the signal processing time and frequency domain features pipeline for Realpd patient.
