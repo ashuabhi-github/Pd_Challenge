@@ -82,6 +82,9 @@ This project requires **Python 3.7.3** and the following Python libraries instal
 | ├── smartphone_accelerometer 
 | ├── smartwatch_accelerometer 
 | └── smartwatch_gyroscope 
+├── test_data_Id
+| ├── cis-pd.CIS-PD_Test_Data_IDs.csv
+| └── real-pd.REAL-PD_Test_Data_IDs.csv
 ├── clinical_data 
 | ├── CIS-PD_Demographics.csv 
 | ├── CIS-PD_UPDRS_Part1_2_4.csv 
