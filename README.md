@@ -97,6 +97,7 @@ This project requires **Python 3.7.3** and the following Python libraries instal
 | ├── REAL-PD_UPDRS_Part1_2_4.csv 
 | └── REAL-PD_UPDRS_Part3.csv 
 ```
+**Note:Please Create test_data_Id directory and paste is-pd.CIS-PD_Test_Data_IDs.csv & real-pd.REAL-PD_Test_Data_IDs.csv** <br />
 
 **Exported training datas from Part1,Part2,Part3 of CISPD & REALPD ipynb** <br />
 ```bash
@@ -131,6 +132,7 @@ This project requires **Python 3.7.3** and the following Python libraries instal
 ```
 
 **Note:Modeling.ipynb will use these exported csv files to create machine learning models** <br />
+
  <br />
 ### III-2. Notebooks Description:
 
