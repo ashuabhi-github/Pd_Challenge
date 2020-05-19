@@ -67,6 +67,27 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── BEAT-PD_SC2_Dyskinesia_Submission_Template.csv <br />
 └── BEAT-PD_SC3_Tremor_Submission_Template.csv <br />
 
+**After running Data Extraction.ipynb these Dicretories will be created** <br />
+├── ancillary_data <br />
+| ├── smartphone_accelerometer <br />
+| ├── smartwatch_accelerometer <br />
+| └── smartwatch_gyroscope <br />
+├── training_data <br />
+| ├── smartphone_accelerometer <br />
+| ├── smartwatch_accelerometer <br />
+| └── smartwatch_gyroscope <br />
+├── testing_data <br />
+| ├── smartphone_accelerometer <br />
+| ├── smartwatch_accelerometer <br />
+| └── smartwatch_gyroscope <br />
+├── clinical_data <br />
+| ├── CIS-PD_Demographics.csv <br />
+| ├── CIS-PD_UPDRS_Part1_2_4.csv <br />
+| ├── CIS-PD_UPDRS_Part3.csv <br />
+| ├── REAL-PD_Demographics.csv <br />
+| ├── REAL-PD_Smartphone_Metadata.csv <br />
+| ├── REAL-PD_UPDRS_Part1_2_4.csv <br />
+| └── REAL-PD_UPDRS_Part3.csv <br />
 
 **Exported training datas from Part1,Part2,Part3 of CISPD & REALPD ipynb** <br />
 ├── analysis2_cispd_comp_training_abhiroop_tillhurst.csv <br />
@@ -98,7 +119,7 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 		
 ### III-2. Notebooks:
 
-     - `Data Extraction.ipynb`: This is the notebook file extract signals from these zip folders 
+     - `Data Extraction.ipynb`: This notebook extract signals from these zip folders 
     
 
 	- `Part1-till hurst-CISPD.ipynb`: This notebook file contains the signal processing and time and frequency domain features with pipeline for Cispd patient.
