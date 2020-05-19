@@ -37,9 +37,9 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ### III-1. Directories:
 
 ```bash
-├── activity_labels.txt 
-├── features_info.txt 
-├── features.txt 
+├── requirements.txt 
+├── features_info.docx 
+├── features.xlsx 
 ├── README.txt 
 ├── Data Extraction.ipynb 
 ├── Part1-till hurst-CISPD.ipynb 
