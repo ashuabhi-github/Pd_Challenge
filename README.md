@@ -139,6 +139,10 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 6. Part3-last set of features CISPD.ipynb: Signal processing DWT features and few other time and frequency domain feartures with pipeline for Cispd patient.
 7. Part3-last set of features RealPD.ipynb: Signal processing DWT features and few other time and frequency domain feartures with pipeline for Realpd patient.
 8. Modeling.ipynb: Machine learning and detailed analysis of each step performed to build the final model
+9. requirements.txt : All necessary libraries to run these code
+10. features_info.docx : Explanation of features
+11. features.xlsx : All features created for CISPD
+
 9. README.md: Short description of this project and necessary steps to run it successfully.
 ```
 
