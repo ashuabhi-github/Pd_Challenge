@@ -40,7 +40,7 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── features_info.txt <br />
 ├── features.txt <br />
 ├── README.txt <br />
-├── Data Extraction.ipynb^1^ <br />
+├── Data Extraction.ipynb <br />
 ├── Part1-till hurst-CISPD.ipynb <br />
 ├── Part1-till hurst-RealPD.ipynb <br />
 ├── Part2-wavelet features-CISPD.ipynb <br />
@@ -48,6 +48,8 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── Part3-last set of features CISPD.ipynb <br />
 ├── Part3-last set of features RealPD.ipynb <br />
 ├── Modeling.ipynb <br />
+
+Exported training datas from Part1,Part2,Part3 of CISPD & REALPD ipynb
 ├── analysis2_cispd_comp_training_abhiroop_tillhurst.csv <br />
 ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartphone.csv <br />
 ├── analysis2_realpd_comp_training_abhiroop_tillhurst_smartphone.csv <br />
@@ -56,9 +58,9 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── realpd_wavelet_features_smartwatch_training.csv <br />
 ├── cispd_comp_training_abhiroop_lastfeatures.csv <br />
 ├── realpd_comp_training_abhiroop_lastfeatures_smartphone.csv <br />
-├── realpd_comp_training_abhiroop_lastfeatures_smartwatch.csv <br />
-├── cispd_clinical_preprocessed.csv <br />
-├── realpd_clinical_preprocessed.csv <br />
+└── realpd_comp_training_abhiroop_lastfeatures_smartwatch.csv <br />
+
+Exported testing datas from Part1,Part2,Part3 of CISPD & REALPD ipynb
 ├── analysis2_cispd_comp_testing_abhiroop_tillhurst.csv <br />
 ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv <br />
 ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv <br />
@@ -69,7 +71,11 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── realpd_comp_testing_abhiroop_lastfeatures_smartphone.csv <br />
 └── realpd_comp_testing_abhiroop_lastfeatures_smartwatch.csv <br />
 
-Note: files inside train and test folder is created after running Part1,2 and 3 Python notebook for both realpd and cispd
+Exported clinical datas from Part3 of CISPD & REALPD ipynb
+├── cispd_clinical_preprocessed.csv <br />
+└── realpd_clinical_preprocessed.csv <br />
+
+
 		
 ### III-2. Notebooks:
 
