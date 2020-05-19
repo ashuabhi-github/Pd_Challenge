@@ -28,7 +28,7 @@ Sage Bionetworks (Alex Mariakakis, Larsson Omberg, Solly Sieberts, Phil Snyder)
 This project requires **Python 3.7.3** and the following Python libraries installed:
 - Python 3.7.3
 - numpy  , pandas, scipy , math , glob , statsmodels.robust , spectrum , joblib , multiprocessing, time , warnings , pywt , 
-- sklearn , lightgbm , catboost , matplotlib , seaborn , mpl_toolkits.mplot3d , 
+- sklearn , lightgbm , catboost , matplotlib , seaborn , mpl_toolkits.mplot3d
 
 # III. Project Architecture:
 
