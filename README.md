@@ -32,8 +32,6 @@ This project requires **Python 3.7.3** and the following Python libraries instal
 
 # III. Project Architecture:
 
-This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) includes three main directories and 3 files:
-
 ### III-1. Directories:
 
 ```bash
@@ -146,7 +144,7 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 9. README.md: Short description of this project and necessary steps to run it successfully.
 ```
 
-## IV-1. Original Datasets
+# IV. Original Datasets
 ### A. The general process:
 In this project, we are creating a machine-learning algorithm to predict the occurrence of tremors, dyskinesia, and medication state of the patients which using clinical data and signals that have been captured from various devices (smartphone, smartwatch). We did not find literature in the research community around to combine clinical and IoT data. There was extensive work done to extract new features from the provided data points. First, the signals were segregated into gravity and body motion components. After this, 2nd order and 3rd order features from sensor data were derived. Finally, we have then utilized an optimal set of features and modeled with Catboost.
 
