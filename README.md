@@ -49,9 +49,10 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── Part3-last set of features CISPD.ipynb <br />
 ├── Part3-last set of features RealPD.ipynb <br />
 ├── Modeling.ipynb <br />
-
+```
 
 **Before running any code please add these zipped data and csv files into the parent directory** <br />
+```bash
 ├── cis-pd.ancillary_data.tar.bz2 <br />
 ├── cis-pd.clinical_data.tar.bz2 <br />
 ├── cis-pd.data_labels.tar.bz2 <br />
@@ -67,57 +68,65 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── BEAT-PD_SC1_OnOff_Submission_Template.csv <br />
 ├── BEAT-PD_SC2_Dyskinesia_Submission_Template.csv <br />
 └── BEAT-PD_SC3_Tremor_Submission_Template.csv <br />
+```
 
 **After running Data Extraction.ipynb these Dicretories will be created** <br />
-├── ancillary_data <br />
-| ├── smartphone_accelerometer <br />
-| ├── smartwatch_accelerometer <br />
-| └── smartwatch_gyroscope <br />
-├── training_data <br />
-| ├── smartphone_accelerometer <br />
-| ├── smartwatch_accelerometer <br />
-| └── smartwatch_gyroscope <br />
-├── testing_data <br />
-| ├── smartphone_accelerometer <br />
-| ├── smartwatch_accelerometer <br />
-| └── smartwatch_gyroscope <br />
-├── clinical_data <br />
-| ├── CIS-PD_Demographics.csv <br />
-| ├── CIS-PD_UPDRS_Part1_2_4.csv <br />
-| ├── CIS-PD_UPDRS_Part3.csv <br />
-| ├── REAL-PD_Demographics.csv <br />
-| ├── REAL-PD_Smartphone_Metadata.csv <br />
-| ├── REAL-PD_UPDRS_Part1_2_4.csv <br />
-| └── REAL-PD_UPDRS_Part3.csv <br />
+```bash
+├── ancillary_data 
+| ├── smartphone_accelerometer 
+| ├── smartwatch_accelerometer 
+| └── smartwatch_gyroscope 
+├── training_data 
+| ├── smartphone_accelerometer 
+| ├── smartwatch_accelerometer 
+| └── smartwatch_gyroscope 
+├── testing_data 
+| ├── smartphone_accelerometer 
+| ├── smartwatch_accelerometer 
+| └── smartwatch_gyroscope 
+├── clinical_data 
+| ├── CIS-PD_Demographics.csv 
+| ├── CIS-PD_UPDRS_Part1_2_4.csv 
+| ├── CIS-PD_UPDRS_Part3.csv 
+| ├── REAL-PD_Demographics.csv 
+| ├── REAL-PD_Smartphone_Metadata.csv 
+| ├── REAL-PD_UPDRS_Part1_2_4.csv 
+| └── REAL-PD_UPDRS_Part3.csv 
+```
 
 **Exported training datas from Part1,Part2,Part3 of CISPD & REALPD ipynb** <br />
-├── analysis2_cispd_comp_training_abhiroop_tillhurst.csv <br />
-├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartphone.csv <br />
-├── analysis2_realpd_comp_training_abhiroop_tillhurst_smartphone.csv <br />
-├── cispd_wavelet_training_features.csv <br />
-├── realpd_wavelet_features_smartphone_training.csv <br />
-├── realpd_wavelet_features_smartwatch_training.csv <br />
-├── cispd_comp_training_abhiroop_lastfeatures.csv <br />
-├── realpd_comp_training_abhiroop_lastfeatures_smartphone.csv <br />
-└── realpd_comp_training_abhiroop_lastfeatures_smartwatch.csv <br />
+```bash
+├── analysis2_cispd_comp_training_abhiroop_tillhurst.csv 
+├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartphone.csv 
+├── analysis2_realpd_comp_training_abhiroop_tillhurst_smartphone.csv 
+├── cispd_wavelet_training_features.csv 
+├── realpd_wavelet_features_smartphone_training.csv 
+├── realpd_wavelet_features_smartwatch_training.csv 
+├── cispd_comp_training_abhiroop_lastfeatures.csv 
+├── realpd_comp_training_abhiroop_lastfeatures_smartphone.csv 
+└── realpd_comp_training_abhiroop_lastfeatures_smartwatch.csv 
+```
 
 **Exported testing datas from Part1,Part2,Part3 of CISPD & REALPD ipynb** <br />
-├── analysis2_cispd_comp_testing_abhiroop_tillhurst.csv <br />
-├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv <br />
-├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv <br />
-├── cispd_wavelet_testing_features.csv <br />
-├── realpd_wavelet_features_smartphone_testing.csv <br />
-├── realpd_wavelet_features_smartwatch_testing.csv <br />
-├── cispd_comp_testing_abhiroop_lastfeatures.csv <br />
-├── realpd_comp_testing_abhiroop_lastfeatures_smartphone.csv <br />
-└── realpd_comp_testing_abhiroop_lastfeatures_smartwatch.csv <br />
+```bash
+├── analysis2_cispd_comp_testing_abhiroop_tillhurst.csv 
+├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv 
+├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv 
+├── cispd_wavelet_testing_features.csv 
+├── realpd_wavelet_features_smartphone_testing.csv 
+├── realpd_wavelet_features_smartwatch_testing.csv 
+├── cispd_comp_testing_abhiroop_lastfeatures.csv
+├── realpd_comp_testing_abhiroop_lastfeatures_smartphone.csv
+└── realpd_comp_testing_abhiroop_lastfeatures_smartwatch.csv
+```
 
 **Exported clinical datas from Part3 of CISPD & REALPD ipynb** <br />
-├── cispd_clinical_preprocessed.csv <br />
-└── realpd_clinical_preprocessed.csv <br />
+```bash
+├── cispd_clinical_preprocessed.csv
+└── realpd_clinical_preprocessed.csv
+```
 
 **Note:Modeling.ipynb will use these exported csv files to create machine learning models** <br />
-'''
 
 ### III-2. Notebooks:
 
