@@ -61,8 +61,6 @@ This project requires **Python 3.7.3** and the following Python libraries instal
 ├── real-pd.data_labels.tar.bz2 
 ├── real-pd.testing_data.tar.bz2 
 ├── real-pd.training_data.tar.bz2 
-├── cis-pd.CIS-PD_Test_Data_IDs.csv 
-├── real-pd.REAL-PD_Test_Data_IDs.csv 
 ├── BEAT-PD_SC1_OnOff_Submission_Template.csv 
 ├── BEAT-PD_SC2_Dyskinesia_Submission_Template.csv 
 └── BEAT-PD_SC3_Tremor_Submission_Template.csv 
