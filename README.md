@@ -40,38 +40,34 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── features_info.txt <br />
 ├── features.txt <br />
 ├── README.txt <br />
-├── Data Extraction.ipynb <br />
+├── Data Extraction.ipynb^1^ <br />
 ├── Part1-till hurst-CISPD.ipynb <br />
 ├── Part1-till hurst-RealPD.ipynb <br />
-├── Part2-wavelet features-CISPD.ipynb. 
-├── Part2-wavelet features-REALPD.ipynb. 
-├── Part3-last set of features CISPD.ipynb. 
-├── Part3-last set of features RealPD.ipynb  
-├── Modeling.ipynb. 
-├── train. 
-│   |. 
-│   ├── analysis2_cispd_comp_training_abhiroop_tillhurst.csv. 
-│   ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartphone.csv. 
-│   ├── analysis2_realpd_comp_training_abhiroop_tillhurst_smartphone.csv. 
-│   ├── cispd_wavelet_training_features.csv. 
-│   ├── realpd_wavelet_features_smartphone_training.csv. 
-│   ├── realpd_wavelet_features_smartwatch_training.csv. 
-│   ├── cispd_comp_training_abhiroop_lastfeatures.csv. 
-│   ├── realpd_comp_training_abhiroop_lastfeatures_smartphone.csv. 
-│   ├── realpd_comp_training_abhiroop_lastfeatures_smartwatch.csv. 
-│   ├── cispd_clinical_preprocessed.csv. 
-│   └── realpd_clinical_preprocessed.csv. 
-├── test. 
-│   |. 
-│   ├── analysis2_cispd_comp_testing_abhiroop_tillhurst.csv. 
-│   ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv. 
-│   ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv. 
-│   ├── cispd_wavelet_testing_features.csv. 
-│   ├── realpd_wavelet_features_smartphone_testing.csv. 
-│   ├── realpd_wavelet_features_smartwatch_testing.csv. 
-│   ├── cispd_comp_testing_abhiroop_lastfeatures.csv. 
-│   ├── realpd_comp_testing_abhiroop_lastfeatures_smartphone.csv. 
-│   └── realpd_comp_testing_abhiroop_lastfeatures_smartwatch.csv. 
+├── Part2-wavelet features-CISPD.ipynb <br />
+├── Part2-wavelet features-REALPD.ipynb <br />
+├── Part3-last set of features CISPD.ipynb <br />
+├── Part3-last set of features RealPD.ipynb <br />
+├── Modeling.ipynb <br />
+├── analysis2_cispd_comp_training_abhiroop_tillhurst.csv <br />
+├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartphone.csv <br />
+├── analysis2_realpd_comp_training_abhiroop_tillhurst_smartphone.csv <br />
+├── cispd_wavelet_training_features.csv <br />
+├── realpd_wavelet_features_smartphone_training.csv <br />
+├── realpd_wavelet_features_smartwatch_training.csv <br />
+├── cispd_comp_training_abhiroop_lastfeatures.csv <br />
+├── realpd_comp_training_abhiroop_lastfeatures_smartphone.csv <br />
+├── realpd_comp_training_abhiroop_lastfeatures_smartwatch.csv <br />
+├── cispd_clinical_preprocessed.csv <br />
+├── realpd_clinical_preprocessed.csv <br />
+├── analysis2_cispd_comp_testing_abhiroop_tillhurst.csv <br />
+├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv <br />
+├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv <br />
+├── cispd_wavelet_testing_features.csv <br />
+├── realpd_wavelet_features_smartphone_testing.csv <br />
+├── realpd_wavelet_features_smartwatch_testing.csv <br />
+├── cispd_comp_testing_abhiroop_lastfeatures.csv <br />
+├── realpd_comp_testing_abhiroop_lastfeatures_smartphone.csv <br />
+└── realpd_comp_testing_abhiroop_lastfeatures_smartwatch.csv <br />
 
 Note: files inside train and test folder is created after running Part1,2 and 3 Python notebook for both realpd and cispd
 		
