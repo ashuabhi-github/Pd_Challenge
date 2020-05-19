@@ -214,4 +214,4 @@ From these derived signal, a vector of 908 features was obtained by calculating 
 - final_on_off.csv (predicion for on_off)
 
 **Notes:**
-Please If you have any ambiguity about any part of this project or just want to have more info about this subject don't hestitate to contact me at: `abhiroopkumar.iitkgp@gmail.com / abhiroop.kumar@optum.com` 
+If you have any ambiguity about any part of this project or just want to have more info about this subject don't hestitate to contact me at: `abhiroopkumar.iitkgp@gmail.com / abhiroop.kumar@optum.com` 
