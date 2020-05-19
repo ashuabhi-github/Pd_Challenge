@@ -158,8 +158,6 @@ This `Raw-Data` was stratify partitioned into two sets, where `70%` of the measu
 **Noise filtering:**
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals `t_Acc-XYZ` and `t_Gyro-XYZ`. These time domain signals were captured at a constant rate of `50 Hz` for cispd and for realpd smartphone signals were captured ta rate of `100 Hz` and `50 Hz` for smartwatch. Then they were filtered using a `3rd order low pass Butterworth filter` with a corner frequency of `20 Hz` to remove noise.
 
-**2- 3rd order Low pass Butterworth filter** with a cut-off, `frequency = 20hz` was applied to remove high frequency noise.
-
 Resulted Signals are:  `total_acc_XYZ` and `Gyro_XYZ`.
 
 ##### Gravity filtering:
