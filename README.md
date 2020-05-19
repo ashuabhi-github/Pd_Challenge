@@ -199,7 +199,7 @@ From these derived signal, a vector of 908 features was obtained by calculating 
 - cispd_clinical_preprocessed.csv
 - realpd_clinical_preprocessed.csv
 
-**Step6:** Then Run Modeling.ipynb and then these files will be exported
+**Step6:** Then Run Modeling.ipynb which will use these exported files for modeling and export these predicion files for three sub challenges
 - final_tremor.csv (predicion for tremor)
 - final_dyskinesia.csv (predicion for dyskinesia)
 - final_on_off.csv (predicion for on_off)
