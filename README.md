@@ -49,7 +49,7 @@ This repository [PD_Challenge](https://github.com/ashuabhi-github/Pd_Challenge) 
 ├── Part3-last set of features RealPD.ipynb <br />
 ├── Modeling.ipynb <br />
 
-Exported training datas from Part1,Part2,Part3 of CISPD & REALPD ipynb
+**Exported training datas from Part1,Part2,Part3 of CISPD & REALPD ipynb** <br />
 ├── analysis2_cispd_comp_training_abhiroop_tillhurst.csv <br />
 ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartphone.csv <br />
 ├── analysis2_realpd_comp_training_abhiroop_tillhurst_smartphone.csv <br />
@@ -60,7 +60,7 @@ Exported training datas from Part1,Part2,Part3 of CISPD & REALPD ipynb
 ├── realpd_comp_training_abhiroop_lastfeatures_smartphone.csv <br />
 └── realpd_comp_training_abhiroop_lastfeatures_smartwatch.csv <br />
 
-Exported testing datas from Part1,Part2,Part3 of CISPD & REALPD ipynb
+**Exported testing datas from Part1,Part2,Part3 of CISPD & REALPD ipynb** <br />
 ├── analysis2_cispd_comp_testing_abhiroop_tillhurst.csv <br />
 ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv <br />
 ├── analysis2_realpd_comp_testing_abhiroop_tillhurst_smartwatch.csv <br />
@@ -71,7 +71,7 @@ Exported testing datas from Part1,Part2,Part3 of CISPD & REALPD ipynb
 ├── realpd_comp_testing_abhiroop_lastfeatures_smartphone.csv <br />
 └── realpd_comp_testing_abhiroop_lastfeatures_smartwatch.csv <br />
 
-Exported clinical datas from Part3 of CISPD & REALPD ipynb
+**Exported clinical datas from Part3 of CISPD & REALPD ipynb** <br />
 ├── cispd_clinical_preprocessed.csv <br />
 └── realpd_clinical_preprocessed.csv <br />
 
